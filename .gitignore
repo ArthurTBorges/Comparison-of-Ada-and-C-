@@ -1,0 +1,6 @@
+cat << 'EOF' >> .gitignore
+*.o
+*.ali
+*.out
+a.out
+EOF
